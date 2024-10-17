@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cs450-assignment3/static/css/main.cefb15ab.css",
+    "main.js": "/cs450-assignment3/static/js/main.799f1225.js",
+    "static/media/tips.csv": "/cs450-assignment3/static/media/tips.43007c7e472255eef549.csv",
+    "index.html": "/cs450-assignment3/index.html",
+    "main.cefb15ab.css.map": "/cs450-assignment3/static/css/main.cefb15ab.css.map",
+    "main.799f1225.js.map": "/cs450-assignment3/static/js/main.799f1225.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cefb15ab.css",
+    "static/js/main.799f1225.js"
+  ]
+}
